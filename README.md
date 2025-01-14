@@ -11,7 +11,7 @@
 
 A modern SwiftUI-based hyperlocal delivery application that provides a seamless experience for ordering and tracking deliveries in real-time. Built with the latest Apple technologies and following best practices in iOS development.
 ### 📱 App Demo
-
+![App Demo](app.gif)
 ---
 
 ## ✨ Key Features
