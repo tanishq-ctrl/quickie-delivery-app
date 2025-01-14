@@ -10,7 +10,8 @@
 ## 📱 Overview
 
 A modern SwiftUI-based hyperlocal delivery application that provides a seamless experience for ordering and tracking deliveries in real-time. Built with the latest Apple technologies and following best practices in iOS development.
-
+### 📱 App Demo
+https://github.com/user-attachments/assets/414a5883-94d2-472b-82ec-4932ccc616d1
 ---
 
 ## ✨ Key Features
@@ -106,22 +107,6 @@ This is a private project showcasing modern iOS development practices:
 - 📐 Custom layouts and components
 
 While the source code is private, I'm happy to discuss technical details and implementation approaches. Feel free to reach out!
-
----
-
-## 📸 Screenshots & Videos
-
-### 📱 App Demo
-![App Demo](demo.gif)
-
-### 🎥 Feature Walkthrough
-[![Feature Walkthrough](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
-
-### 🎬 Key Features in Action
-https://github.com/tanishq-ctrl/quickie-delivery-app/blob/main/app%20(1).mp4
-
-### 📸 Screenshots
-[Add your app screenshots here]
 
 ---
 
