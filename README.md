@@ -118,7 +118,7 @@ While the source code is private, I'm happy to discuss technical details and imp
 [![Feature Walkthrough](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
 
 ### 🎬 Key Features in Action
-https://user-images.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/assets/YOUR_ASSET_ID/demo.mp4
+https://github.com/tanishq-ctrl/quickie-delivery-app/blob/main/app%20(1).mp4
 
 ### 📸 Screenshots
 [Add your app screenshots here]
