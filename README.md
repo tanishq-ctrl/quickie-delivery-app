@@ -123,7 +123,7 @@ This project and its source code are proprietary and not available for public us
 ---
 
 ## 📫 Contact
-
+ 
 Let's connect! Reach out for project inquiries or collaboration opportunities: 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tanishq-prabhu-b71467166/)
