@@ -1,4 +1,4 @@
-# HyperLocalDelivery 📱
+# Quickie delivery app 📱
 
 [![Swift](https://img.shields.io/badge/Swift-5.0+-orange.svg)](https://swift.org)
 [![Platform](https://img.shields.io/badge/Platform-iOS%2016.0+-blue.svg)](https://developer.apple.com/ios/)
