@@ -126,8 +126,6 @@ This project and its source code are proprietary and not available for public us
 
 Let's connect! Reach out for project inquiries or collaboration opportunities:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourtwitter)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tanishq-prabhu-b71467166/)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:tanishqprabhu20@gmail.com)
 
-🔗 Project Link: [https://github.com/yourusername/HyperLocalDelivery](https://github.com/yourusername/HyperLocalDelivery) 
